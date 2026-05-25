@@ -252,7 +252,7 @@ const HomePage = () => {
                 transition={{ duration: 1, delay: 0.3 }}
                 className="relative z-10 pb-[40%] max-w-[80%] w-full font-serif flex flex-col justify-center"
               >
-                <h1 className="text-sm text-center mb-10 text-white">
+                <h1 className="text-center mb-10 text-white text-lg">
                   The wait is over, and forever begins 💍
                 </h1>
                 <div className="flex items-center">
