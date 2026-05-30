@@ -734,7 +734,7 @@ function Section6({
       {/* </RevealUp> */}
 
       {/* Vertikal 2 */}
-      <div className="absolute left-10 top-152 h-110 w-[1.5px] overflow-hidden">
+      <div className="absolute left-10 top-152 h-116 w-[1.5px] overflow-hidden">
         <motion.div
           style={{ scaleY: line2Progress, originY: 0 }}
           className="w-full h-full bg-red-950"
@@ -742,7 +742,7 @@ function Section6({
       </div>
 
       {/* Horizontal */}
-      <div className="w-full absolute left-0 top-252 h-0.5 overflow-hidden">
+      <div className="w-full absolute left-0 top-258 h-0.5 overflow-hidden">
         <motion.div
           style={{ scaleX: horizProgress, originX: 1 }}
           className="w-full h-full bg-red-950"
